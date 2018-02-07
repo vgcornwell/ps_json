@@ -9,4 +9,4 @@ Experimenting with json
 # The code automatically links to the AWS S3 bucket link
 
 # Run the code and when asked enter an ID and if it exists in either of the files a json file (output.json) will be created
-# The created json file will contain id, name, brand, reatailer, price, in_stock
+# The created json file will contain id, name, brand, retailer, price, in_stock
